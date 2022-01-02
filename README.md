@@ -2,4 +2,4 @@ The files located in this directory are programs made to make certain jobs easie
 In these files, the followingare contained:
 +   SimpleMail - a class in which is designed to make the process of Mailing through java by accessing the use of other languages such as VBScript
 +   Brainf - a Brainf*ck compiler and runner
-+   JConsole - a JComponent which is able to act as a Console within java. Just as ifyou were to use terminal or another package.
++   JConsole - a JComponent which is able to act as a Console within java. Just as if you were to use terminal or another package.
